@@ -1,6 +1,6 @@
 # IV1351
 Course work for
-IV1351, Data Storage Paradigms, provides an in-depth understanding of various data storage models and techniques. Students learn about relational databases, conceptual modeling, SQL, and the integration of databases with applications. 
+IV1351, Data Storage Paradigms, the course provides an in-depth understanding of various data storage models and techniques. Students learn about relational databases, conceptual modeling, SQL, and the integration of databases with applications. 
 This repository includes the following files:
 
    Task_1: This document details the initial phase of the project, focusing on the conceptual modeling of the database. It includes Entity-Relationship diagrams and descriptions of the entities and relationships identified for the Soundgood Music School.
