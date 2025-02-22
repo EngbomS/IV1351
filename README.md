@@ -1,5 +1,5 @@
 # IV1351
-Course work for IV1351
+Course work for
 IV1351, Data Storage Paradigms, provides an in-depth understanding of various data storage models and techniques. Students learn about relational databases, conceptual modeling, SQL, and the integration of databases with applications. 
 This repository includes the following files:
 
